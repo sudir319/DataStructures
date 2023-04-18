@@ -16,7 +16,4 @@
   - Graph
 
 ## What is a Data Structure? ##
-	Data Structure is a way to organize data in such a way that enables it to be processed in an efficient time.	
-	
-## What is a Data Structure? ##
-	
+	Data Structure is a way to organize data in such a way that enables it to be processed in an efficient time.
